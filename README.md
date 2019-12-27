@@ -4,4 +4,5 @@
 | S.No. | Paper Title | Paper Link | Notebook | Status |
 | --- | --- | --- | --- | --- |
 | 1. | Object-Contextual Representations for Semantic Segmentation | https://arxiv.org/pdf/1909.11065v2.pdf | [Notebook](Object-Contextual-Representations-for-Semantic-Segmentation.ipynb) | **Summary Complete** |
-| 2. | Inductive Representation Learning on Large Graphs | https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf | | **Not Started Yet**|
+| 2. | OCNet: Object Context Network for Scene Parsing | https://arxiv.org/pdf/1809.00916.pdf | | **Not Started Yet** |
+| 3. | Inductive Representation Learning on Large Graphs | https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf | | **Not Started Yet**|
