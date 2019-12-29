@@ -1,6 +1,8 @@
 # Paper-a-day
 ## An attempt at "A Paper a Day"
 
+[**A pretty nice paper on Paper Reading**](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+
 | S.No. | Paper Title | Paper Link | Notebook | Status |
 | --- | --- | --- | --- | --- |
 | 1. | Object-Contextual Representations for Semantic Segmentation | https://arxiv.org/pdf/1909.11065v2.pdf | [Notebook](Object-Contextual-Representations-for-Semantic-Segmentation.ipynb), [PDF](Object-Contextual-Representations-for-Semantic-Segmentation.pdf) | **Summary Complete** - implementation shifted to paper 2 |
